@@ -1,4 +1,4 @@
-﻿#if 1
+
 #include <set>
 #include <iostream>
 
@@ -28,7 +28,7 @@ int main()
 
     return 0;
 }
-#endif
+
 
 #if 0
 
