@@ -1,0 +1,4 @@
+﻿  vector.cpp
+C:\Users\User\Desktop\C++\Practica\vector\vector\vector.cpp(120,15): warning C4566: el carácter representado por el nombre de carácter universal '\u00F1' no se puede representar en la página de códigos actual (1251)
+C:\Users\User\Desktop\C++\Practica\vector\vector\vector.cpp(121,15): warning C4566: el carácter representado por el nombre de carácter universal '\u00F1' no se puede representar en la página de códigos actual (1251)
+  vector.vcxproj -> C:\Users\User\Desktop\C++\Practica\vector\x64\Debug\vector.exe
