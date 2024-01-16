@@ -1,2 +1,3 @@
 # Solo Practica C/C++
-![c++](https://github.com/DiegoJDArias/SoloPractica/assets/97647686/4f1d6891-ff70-4eb2-879a-0e36da6ff277)
+
+![c++](https://github.com/DiegoJDArias/SoloPractica/assets/97647686/b6267600-73ac-4caf-bd34-8da7a78f1a80)
