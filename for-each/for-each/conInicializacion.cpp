@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 
-#if 0
+
 //VT 108 COD. 001
 
 #include <iostream>
